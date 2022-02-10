@@ -1,1 +1,0 @@
-var json_Hotel_Eberbach_18 = {"type":"FeatureCollection","name":"Hotel_Eberbach_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[8.985115571377639,49.462995039753608]}}]}
